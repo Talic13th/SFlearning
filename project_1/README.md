@@ -4,7 +4,9 @@
 [1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Результат)  
+[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Выводы)
 
 
 ### Описание проекта
@@ -42,3 +44,17 @@
 * Проверка кода на всех числах заданного диапазона
 * Подсчёт среднего количества попыток при помощи функции score_game из проекта game_v2
 * Оформление кода, файлов README, загрузка кода на GitHub
+* Фиксация версий библиотек и загрузка файла с требованиями на GitHub
+
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+
+### Результат
+Итоговое решение по выбранному алгоритму дает среднее количество попыток равным 5.
+
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+
+### Вывод
+Оформление проекта не такое уж и сложное и муторное занятие, как мне показалось изначально
+
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+

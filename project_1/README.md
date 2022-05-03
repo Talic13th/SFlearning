@@ -53,7 +53,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
 
-### Вывод
+### Выводы
 Оформление проекта не такое уж и сложное и муторное занятие, как мне показалось изначально
 
 :arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)

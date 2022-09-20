@@ -12,6 +12,7 @@
 ### Описание проекта
 
 Анализ базы данных соискателей на hh.ru
+[Ссылка на данные](https://drive.google.com/file/d/1lZmfhJysmDl8fF-UY4tL5765Yy1keSCN/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
 

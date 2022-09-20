@@ -12,6 +12,7 @@
 ### Описание проекта
 
 Анализ базы данных соискателей на hh.ru
+
 :arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
 
 ### Какой кейс решаем?

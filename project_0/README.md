@@ -1,12 +1,12 @@
 # Проект 1: Угадай число за минимальное количество попыток.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Результат)  
-[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Выводы)
+[1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Результат)  
+[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_0/README.md#Выводы)
 
 
 ### Описание проекта

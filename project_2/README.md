@@ -13,7 +13,7 @@
 
 Анализ базы данных вакансий на hh.ru
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -31,7 +31,7 @@
 * Учимся обрабатывать SQL-запросы в Python.
 * Учимся анализировать данные.
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 
 ### Краткая информация о данных
 База вакансий, выгруженная с сайта поиска вакансий hh.ru. 
@@ -60,7 +60,7 @@
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 ![Таблица "EMPLOYERS_INDUSTRIES"](/project_2/img/SQL_pj2_2_6.png)
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -74,13 +74,13 @@
 
 * выводы по результатам анализа данных
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 
 ### Результат
 Выполнены различные запросы позволившие изучить спрос на рынке услуг. 
 Освоены различные методы агрегации, группировки, объединения таблиц. Улучшены навыки SQL и в целлом работы с данными. 
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 
 ### Выводы
 1. Ожидаемо подавляющее большинство вакансий на рынке труда на полный день и полную занятость. Большой перевес количества вакансий с удаленной работой над вакансиями с гибким графиком, что говорит о готовности работодателей "не видеть вживую" своего сотрудника и большом выборе вакансий позволяющих работать удаленно. Причем средняя ЗП для удаленного типа работы выше, чем у вакансий на полный день и проигрывает лишь вакансиям с вахтовым методом.
@@ -91,5 +91,5 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
 

@@ -1,4 +1,4 @@
-# Проект 1: Анализ резюме на hh.ru.
+# Проект 2: Анализ вакансий на hh.ru.
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Описание-проекта)  

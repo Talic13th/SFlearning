@@ -6,7 +6,7 @@
 [3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Результат)  
-[6. Выводы](/README.md#Выводы)
+[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Выводы)
 
 
 ### Описание проекта

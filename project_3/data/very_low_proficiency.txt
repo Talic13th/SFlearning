@@ -1,0 +1,24 @@
+88 Mexico 447
+89 Uzbekistan 446
+90 Jordan 443
+91 Kyrgyzstan 442
+92 Azerbaijan 440
+93 Myanmar 437
+94 Cambodia 434
+95 Sudan 426
+96 Cameroon 425
+97 Thailand 423
+98 Haiti 421
+99 Kazakhstan 420
+100 Somalia 414
+101 Oman 412
+102 Saudi Arabia 406
+103 Iraq 404
+104 Cote d'Ivoire 403
+105 Angola 402
+106 Tajikistan 397
+107 Rwanda 392
+108 Libya 390
+109 Yemen 370
+110 Democratic Republic of the Congo 367
+111 Laos 364

@@ -1,0 +1,21 @@
+14 Greece 598
+15 Slovakia 597
+16 Luxembourg 596
+17 Romania 595
+18 Hungary 590
+19 Lithuania 589
+20 Kenya 582
+21 Bulgaria 581
+22 Philippines 578
+23 Czech Republic 575
+23 Cyprus 575
+24 Malaysia 574
+25 Latvia 571
+26 Estonia 570
+27 Serbia 567
+28 Nigeria 564
+29 Switzerland 563
+30 Argentina 562
+30 Slovenia 562
+31 Hong Kong (China) 561
+

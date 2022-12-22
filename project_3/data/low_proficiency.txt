@@ -1,0 +1,29 @@
+61 Nicaragua 499
+62 China 498
+63 Tanzania 496
+64 Turkey 495
+65 Nepal 494
+66 Bangladesh 493
+67 Venezuela 492
+68 Ethiopia 490
+69 Iran 489
+70 Pakistan 488
+71 Sri Lanka 487
+72 Mongolia 485
+73 Qatar 484
+74 Israel 483
+75 Panama 482
+76 Morocco 478
+77 Colombia 477
+78 Algeria 476
+78 United Arab Emirates 476
+80 Japan 475
+81 Indonesia 469
+82 Ecuador 466
+83 Syria 461
+84 Kuwait 459
+85 Egypt 454
+86 Mozambique 453
+87 Afghanistan 450
+72 Bahrain
+

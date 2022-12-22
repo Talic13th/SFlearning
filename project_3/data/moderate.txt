@@ -1,0 +1,29 @@
+32 Italy 548
+33 Spain 545
+34 France 541
+35 Ukraine 539
+36 South Korea 537
+37 Costa Rica 536
+38 Cuba 535
+39 Belarus 533
+40 Russia 530
+41 Ghana 529
+42 Moldova 528
+43 Paraguay 526
+44 Bolivia 525
+45 Chile 524
+45 Georgia 524
+47 Albania 523
+48 Honduras 522
+49 Uruguay 521
+50 El Salvador 519
+51 Peru 517
+52 India 516
+53 Dominican Republic 514
+54 Lebanon 513
+55 Uganda 512
+56 Tunisia 511
+57 Armenia 506
+58 Brazil 505
+58 Guatemala 505
+60 Vietnam 502

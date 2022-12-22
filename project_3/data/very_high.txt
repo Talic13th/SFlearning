@@ -1,0 +1,14 @@
+01 Netherlands 661
+02 Singapore 642
+03 Austria 628
+04 Norway 627
+05 Denmark 625
+06 Belgium 620
+07 Sweden 618
+08 Finland 615
+09 Portugal 614
+10 Germany 613
+11 Croatia 612
+11 Iceland 612
+12 South Africa 609
+13 Poland 600

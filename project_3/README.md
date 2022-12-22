@@ -1,4 +1,4 @@
-# Проект 2: Анализ вакансий на hh.ru.
+# Проект 3: Предсказание рейтинга отеля Booking
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Описание-проекта)  

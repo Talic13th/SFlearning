@@ -1,19 +1,19 @@
 # Проект 2: Анализ вакансий на hh.ru.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Результат)  
-[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Выводы)
+[1. Описание проекта](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Описание-проекта)  
+[2. Какой кейс решаем](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Результат)  
+[6. Выводы](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Выводы)
 
 
 ### Описание проекта
 
 Предсказание рейтинга отеля
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -32,33 +32,36 @@ MAPE: Средняя абсолютная процентная ошибка пр
 * Учимся разведочному анализу, визуализации.
 * Учимся генерировать признаки, отбирать признаки для модели, преобразовывать признаки.
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
 ### Краткая информация о данных
 Файлы для соревнования
-hotels_train.csv - набор данных для обучения
-hotels_test.csv - набор данных для оценки качества
-submission.csv - файл сабмишна в нужном формате
-Признаки
-hotel_address - адрес отеля
-review_date - дата, когда рецензент разместил соответствующий отзыв.
-average_score - средний балл отеля, рассчитанный на основе последнего комментария за последний год
-hotel_name - название отеля
-reviewer_nationality - национальность рецензента
-negative_review - отрицательный отзыв, который рецензент дал отелю.
-review_total_negative_word_counts - общее количество слов в отрицательном отзыв
-positive_review - положительный отзыв, который рецензент дал отелю
-review_total_positive_word_counts - общее количество слов в положительном отзыве
-reviewer_score - оценка, которую рецензент поставил отелю на основе своего опыта
-total_number_of_reviews_reviewer_has_given - количество отзывов, которые рецензенты дали в прошлом
-total_number_of_reviews - общее количество действительных отзывов об отеле
-tags - теги, которые рецензент дал отелю.
-days_since_review - продолжительность между датой проверки и датой очистки
-additional_number_of_scoring - есть также некоторые гости, которые просто поставили оценку сервису, а не оставили отзыв. Это число указывает, сколько там действительных оценок без проверки.
-lat - широта отеля
-lng - долгота отеля
+- hotels_train.csv - набор данных для обучения
+- hotels_test.csv - набор данных для оценки качества
+- submission.csv - файл сабмишна в нужном формате
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+Признаки
+- hotel_address - адрес отеля
+- review_date - дата, когда рецензент разместил соответствующий отзыв.
+- average_score - средний балл отеля, рассчитанный на основе последнего комментария за последний год
+- hotel_name - название отеля
+- reviewer_nationality - национальность рецензента
+- negative_review - отрицательный отзыв, который рецензент дал отелю.
+- review_total_negative_word_counts - общее количество слов в отрицательном отзыв
+- positive_review - положительный отзыв, который рецензент дал отелю
+- review_total_positive_word_counts - общее количество слов в положительном отзыве
+- reviewer_score - оценка, которую рецензент поставил отелю на основе своего опыта
+- total_number_of_reviews_reviewer_has_given - количество отзывов, которые рецензенты дали в прошлом
+- total_number_of_reviews - общее количество действительных отзывов об отеле
+- tags - теги, которые рецензент дал отелю.
+- days_since_review - продолжительность между датой проверки и датой очистки
+- additional_number_of_scoring - есть также некоторые гости, которые просто поставили оценку сервису, а не оставили отзыв. Это число указывает, сколько там действительных оценок без проверки.
+- lat - широта отеля
+- lng - долгота отеля
+
+[Ссылка на данные](https://drive.google.com/drive/folders/1qiFOq11F2oy5tzAiPZxF_HPNZyYpYS3R?usp=sharing)
+
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -78,13 +81,13 @@ lng - долгота отеля
 
 * обучение модели
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
 ### Результат
 
 Проведён EDA, модель обчена с достаточной точностью.
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
 ### Выводы
 1. Обработка данных, подбор параметров осуществлен с достаточной точностью, но есть возможность добиться лучших результатов.
@@ -93,5 +96,5 @@ lng - долгота отеля
 4. Итоговый ноутбук, представленные в нем идеи имеет огромные перспективы для улчшения, цели добиться максимального результата не было.
 
 
-:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Talic13th/SGlearning/blob/main/project_3/README.md#Оглавление)
 
